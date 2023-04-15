@@ -1,5 +1,7 @@
 [workspace]
 
 members = [
-    "validator_extra_example"
+    "validator_extra_example",
+    "validator_extra_core",
+    "validator_extra_macros",
 ]
