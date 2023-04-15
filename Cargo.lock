@@ -216,6 +216,11 @@ dependencies = [
 [[package]]
 name = "validator_extra_core"
 version = "0.1.0"
+dependencies = [
+ "proc-macro2",
+ "quote",
+ "syn",
+]
 
 [[package]]
 name = "validator_extra_example"
