@@ -4,4 +4,4 @@
 * Presentation: [Google Slides](https://docs.google.com/presentation/d/1UCD8FdG2KIawhZIpjCiEMyzJqNrurc__ekECASVAGvc/edit?usp=sharing).
 * Video: [YouTube](https://www.youtube.com/watch?v=m2IfEkyOZMc).
 
-It's recommended to see the presentation rather than to watch the video.
+It's recommended to see the presentation first and only afterwards to watch the video.
